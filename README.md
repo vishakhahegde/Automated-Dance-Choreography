@@ -1,4 +1,4 @@
-<h1>About the Project</h1>
+<h1>Automated Dance Choreography and Direction Using Music Classification and Contextual Factors</h1>
 Capstone project at PES University.
 
 This project aims to simplify the choreography process for dancers and choreographers by creating an automated system that maps dance moves to the beats of a music piece. 
@@ -9,8 +9,11 @@ It creates a realistic 3D dancing figure to simulate fluid, life-like movements.
 By automating the choreography process, the system offers a streamlined, user-friendly solution for creating immersive, visually and audibly cohesive dance performances.
 
 UI which integrates the **dance, costume and background settings** for a particular song, created using Streamlit.
+
 ![image](https://github.com/user-attachments/assets/5d248aa7-107c-44c0-9e36-3ded6677c074)
 
 Additionally, we developed a **Bharatnatyam dance dataset** using OpenPose, MediaPipe, and SMPL points, which can serve as a valuable resource for future research in classical dance choreography.
+
 3D reconstruction with SMPL points:
+
 ![image](https://github.com/user-attachments/assets/e68849ea-f429-415b-aca6-f7d3769aa4e3)

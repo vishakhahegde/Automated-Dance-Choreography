@@ -1,0 +1,10 @@
+Below are our published IEEE papers and journal links
+
+2023 IEEE 4th International Conference on Pattern Recognition and Machine Learning (PRML) 4-6 Aug. 2023
+UniQNatyam: An Approach Towards Non-Repetitive Dance Generation:
+https://ieeexplore.ieee.org/abstract/document/10348205
+
+Gradiva Review Journal, Volume 9, Issue 8, 2023
+NatyaSet: Classical Dance Dataset for Bharatanatyam: 
+https://drive.google.com/file/d/1W_FxxmY_KrhycPp4qMsaxBSG-91QvKnm/view
+

@@ -8,7 +8,7 @@ The system analyzes the tempo, rhythm, tone, and emotion of a music file to gene
 It creates a realistic 3D dancing figure to simulate fluid, life-like movements. Additionally, it provides recommendations for enhancing performances by analyzing contextual factors such as lighting, stage design, and costumes. 
 By automating the choreography process, the system offers a streamlined, user-friendly solution for creating immersive, visually and audibly cohesive dance performances.
 
-Below is an image of the UI which integrates the **dance, costume and background settings** for a particular song, created using Streamlit.
+UI which integrates the **dance, costume and background settings** for a particular song, created using Streamlit.
 ![image](https://github.com/user-attachments/assets/5d248aa7-107c-44c0-9e36-3ded6677c074)
 
 Additionally, we developed a **Bharatnatyam dance dataset** using OpenPose, MediaPipe, and SMPL points, which can serve as a valuable resource for future research in classical dance choreography.
